@@ -73,6 +73,6 @@ The main driver class with a menu-driven interface for interacting with the bank
 
 Feel free to fork this repository and submit pull requests for enhancements or bug fixes.
 
-## License
+## Note
 
-This project is licensed under the MIT License.
+This project is not yet complete,but functional enough to be posted.
